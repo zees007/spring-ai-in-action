@@ -30,10 +30,10 @@ public class SpringAIService {
     @Autowired
     AiClient aiClient;
 
-    @Value("{spring.ai.openai.apikey}")
+    @Value("${spring.ai.openai.apikey}")
     private String apiKey;
 
-    @Value("{spring.ai.openai.imageUrl}")
+    @Value("${spring.ai.openai.imageUrl}")
     private String openAIImageUrl;
 
 
