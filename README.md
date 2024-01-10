@@ -10,4 +10,5 @@ As of December 2023, the Spring-AI project has transitioned from its experimenta
 You can follow my blog to step by step implementation of Spring-AI in spring boot application:
 
 https://medium.com/gitconnected/add-generative-ai-in-your-spring-boot-application-spring-ai-12561b1adf08
+(Don't forget to give max claps (50 max) on my blog to motivate me for  providing such more articles) :)
 
